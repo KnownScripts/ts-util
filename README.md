@@ -14,3 +14,8 @@ An database utility for QBcore server
 * had problems with timings where database went crazy and didnt know what to do :)
 
 
+# More TO DO 
+
+* add commands for admins only
+
+
