@@ -5,7 +5,7 @@ An database utility for QBcore server
 # Commands
 
 
-* `dbinit` initialized database creation.
+* `dbinit` start database creation.
 * `deletedb` deletes db completly.
 
 
