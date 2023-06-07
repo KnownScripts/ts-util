@@ -1,6 +1,8 @@
 # ts-util
 An database utility for QBcore server
 
+Tool will create 8 common tables and 1 database for QBCore.
+
 
 # Commands
 
